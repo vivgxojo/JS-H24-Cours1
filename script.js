@@ -1,0 +1,1 @@
+alert("Bonjour la classe!"); // ; optionnel
